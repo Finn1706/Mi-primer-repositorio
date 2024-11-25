@@ -1,0 +1,37 @@
+/*Estilos para el header*/
+
+header{
+    background-color: rgb(103, 103, 103);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/*Estilo del body*/
+
+body{font: arial;
+background-color: antiquewhite;
+font-family:'Courier New', Courier, monospace;
+}
+p {
+    font-weight: bold;
+}
+
+#p1{
+    background-color: aqua;
+}
+
+.perfil{
+    width: 25%;
+    border: 5px solid red;
+    border-radius: 100%;
+    height: 25%;
+}
+
+
+/*Estilos de la seccion #5*/
+.genero{
+    display: inline;
+    margin: auto 10px;
+}
+.dep{
+    display: inline;
+}
